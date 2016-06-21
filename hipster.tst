@@ -4,7 +4,7 @@ This repository
 
     Pull requests
     Issues
-    Gist
+    Gistasdasdasdasd
 
     @ekashef
 
